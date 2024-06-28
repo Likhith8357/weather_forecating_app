@@ -192,7 +192,7 @@ function App() {
 
             <UTCDatetime />
             <Link
-              href="https://github.com/Amin-Awinti"
+              href="https://github.com/Likhith8357"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
